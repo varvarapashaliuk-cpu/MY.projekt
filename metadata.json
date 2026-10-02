@@ -1,0 +1,6 @@
+{
+  "name": "Burza w Lesie: Uderzenie Pioruna",
+  "description": "Interaktywna symulacja burzy w lesie z realistycznym uderzeniem pioruna w drzewo, fizyką wiatru, deszczem, dymem i syntezą dźwięku grzmotu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
